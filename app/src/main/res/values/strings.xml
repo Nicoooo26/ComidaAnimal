@@ -1,0 +1,13 @@
+<resources>
+
+<!--Aplicación comida animales-->
+    <string name="app_name">ComidaAnimal</string>
+    <string name="dog">perro</string>
+    <string name="cat">gato</string>
+    <string name="weight">peso</string>
+    <string name="defaultValueWeight">1 Kg</string>
+    <string name="age">edad</string>
+    <string name="defaultAge">0 año</string>
+    <string name="year">año</string>
+    <string name="result">resultado</string>
+</resources>
